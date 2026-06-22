@@ -2,3 +2,4 @@
 first project git and github
 
 ## project notes
+Learning Git is awesome! 
